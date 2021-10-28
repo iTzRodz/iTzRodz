@@ -1,10 +1,10 @@
 ##  Welcome to my GitHub 👋
  Hi, my names is Rodolfo Carvalho. I'm studying analyst and development system at unimar i'm in the 2nd period.
-<br>
 
+<br>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iTzRodz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzRodz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=iTzRodz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="45%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzRodz&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 <br>
  
