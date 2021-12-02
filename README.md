@@ -4,9 +4,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iTzRodz&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzRodz&layout=compact&theme=radical"/>
 </div> 
-
+<br>
  
  Hi, my names is Rodolfo Carvalho. I'm studying analyst and development system at unimar i'm in the 2nd period.
+ <div>
+   <img align="right" src="https://c.tenor.com/tPLkPiyJMD0AAAAC/luffy-oi.gif" width="250" height="250px" alt="Luffy Oi GIF - Luffy Oi Bemvindo GIFs">
+</div>
 
 <br>
 <div style="display: inline_block">
@@ -22,7 +25,7 @@
   
   <h4> Database: </h4>
   <img align="center" alt="" height="70" width="70" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original-wordmark.svg">
-
+  
 </div>
  
  ##
