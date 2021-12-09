@@ -19,7 +19,6 @@
   <br>
  
   <h4> Programming Language: </h4>
-   <img align="center" alt="" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg">
    <img align="center" alt="" height="55" width="55" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/php/php-original.svg">
    <img align="center" alt="" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg">
   
