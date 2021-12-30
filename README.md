@@ -6,7 +6,7 @@
 </div> 
 <br>
  
- Hi, my names is Rodolfo Carvalho. I'm studying analyst and development system at unimar i'm in the 2nd period.
+ Hi, my names is Rodolfo Carvalho. I'm studying analyst and development system at Unimar i'm in the 3nd period.
  <div>
    <img align="right" src="https://c.tenor.com/tPLkPiyJMD0AAAAC/luffy-oi.gif" width="250" height="250px" alt="Luffy Oi GIF - Luffy Oi Bemvindo GIFs">
 </div>
