@@ -1,80 +1,135 @@
-<h1 align="center">Hi 👋, I'm Rodolfo Carvalho</h1>
-<h3 align="center">A passionate Full Stack Developer creating amazing web experiences</h3>
-
 <div align="center">
-  <img height="200em" src="https://c.tenor.com/tPLkPiyJMD0AAAAC/luffy-oi.gif"> <br>
+
+# Hi 👋, I'm Rodolfo Carvalho
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;3%2B+Years+of+Experience;React+%7C+Laravel+%7C+TypeScript;Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfocarvalho1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itzrodz-resume.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolfo102030@outlook.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=iTzRodz&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
+
+---
 
 ## 🚀 About Me
 
-<div align="left">
+I'm a **Full Stack Developer** with **3+ years of experience** crafting robust web applications that deliver exceptional user experiences. I specialize in building end-to-end solutions using modern frontend frameworks and scalable backend architectures.
 
-- 🔭 I'm a **Full Stack Developer** with **3+ years of experience** in both frontend and backend technologies
-- 💻 I love building complete web applications from concept to deployment
-- 🌱 Currently exploring new technologies and improving my skills in modern web development
-- ⚡ I enjoy solving complex problems and creating efficient, scalable solutions
-- 🎯 Always eager to learn new frameworks and tools to enhance my development workflow
+- 💼 Full Stack Developer specializing in **React**, **Laravel**, and **TypeScript**
+- 🏗️ Building complete web applications from concept to deployment
+- 🎯 Passionate about clean code, performance optimization, and user-centric design
+- 🌱 Currently exploring advanced React patterns and Laravel best practices
+- ⚡ Love solving complex problems with elegant, maintainable solutions
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const rodolfo = {
+    code: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
+    technologies: {
+        frontend: {
+            js: ["React", "Next.js", "Vue.js"],
+            css: ["Tailwind CSS", "Bootstrap", "Styled Components"]
+        },
+        backend: {
+            php: ["Laravel"],
+            databases: ["MySQL", "PostgreSQL"]
+        },
+        devOps: ["Git", "Linux", "Docker"],
+        tools: ["VS Code", "Postman", "Figma"]
+    },
+    currentlyLearning: "Advanced React Patterns & Laravel Performance Optimization",
+    goals2026: "Build scalable full-stack applications & contribute to open source"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+🚧 Coming soon — projects will be showcased here!
+
+[![Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iTzRodz?tab=repositories)
 
 </div>
 
-## 🛠️ Languages and Tools
+---
 
-<p align="left" style="display:flex;gap:1rem"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="120" height="60"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-</p>
+## 📊 GitHub Statistics
 
-## 🤝 Connect with me
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iTzRodz&show_icons=true&theme=radical&border_color=FFFFFF&border_radius=20&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iTzRodz&theme=radical&border_radius=20&border=FFFFFF&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/rodolfocarvalho1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolfocarvalho1" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzRodz&layout=compact&theme=radical&border_radius=20&border_color=FFFFFF&langs_count=8&hide_border=false" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=iTzRodz&theme=radical&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=false&border_radius=20" alt="Activity Graph" />
+</div>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iTzRodz&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzRodz&layout=compact&theme=radical&border_radius=20px&border_color=FFFFFF" alt="itzrodz" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iTzRodz&show_icons=true&theme=radical&border_color=FFFFFF&border_radius=20px" alt="itzrodz" />
-</p>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodolfocarvalho1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/iTzRodz)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolfo102030@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**⭐ From [iTzRodz](https://github.com/iTzRodz)** | Last Updated: April 2026
+
+![](https://hit.yhype.me/github/profile?user_id=82546139)
+
+</div>
